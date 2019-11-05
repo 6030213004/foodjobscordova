@@ -1,0 +1,158 @@
+.page--full_bg__background {
+    background: url('https://firebasestorage.googleapis.com/v0/b/foodjobs-70e88.appspot.com/o/Foodjobs.png?alt=media&token=b949f9f9-e27f-423c-a91d-c7cecd2e9600');
+}
+
+.recomended_item {
+    padding-left: 10px;
+}
+
+.recomended_item_title {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.thumbnail {
+    width: 120px;
+    height: 120px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.42);
+}
+
+.recomended_list {
+    height: 150px;
+}
+
+.recomended {
+    background-color: white;
+    padding-top: 60px;
+}
+
+.menu_list {
+    background: transparent;
+}
+
+.menu_item {
+    color: white;
+    font-size: 12px;
+}
+
+.menu_item ons-icon {
+    margin-right: 10px;
+    color: gray;
+    font-size: 16px;
+}
+
+.category_content {
+    background-color: white;
+}
+
+.category {
+    margin: 20px 0px;
+    padding: 0px 30px;
+}
+
+.category_wrapper {
+    max-width: 150px;
+    width: 95%;
+    height: 120px;
+    margin: auto;
+    background-color: gold;
+}
+
+.category_wrapper ons-icon {
+    font-size: 55px;
+    padding-top: 10px;
+    line-height: 0.75em;
+}
+
+.category_thumbnail {
+    display: inline-block;
+    margin: 16px 0px;
+}
+
+.category_title {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    padding-top: 20px;
+}
+
+.content {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+
+/* ---------------------------------------------------------------------------------- */
+
+#customBtn {
+    display: inline-block;
+    background: white;
+    color: #444;
+    width: 190px;
+    border-radius: 5px;
+    border: thin solid #888;
+    box-shadow: 1px 1px 1px grey;
+    white-space: nowrap;
+  }
+  #customBtn:hover {
+    cursor: pointer;
+  }
+  span.label {
+    font-family: serif;
+    font-weight: normal;
+  }
+  span.icon {
+    background: url('/identity/sign-in/g-normal.png') transparent 5px 50% no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    width: 42px;
+    height: 42px;
+  }
+  span.buttonText {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 42px;
+    padding-right: 42px;
+    font-size: 14px;
+    font-weight: bold;
+    /* Use the Roboto font that is loaded in the <head> */
+    font-family: 'Roboto', sans-serif;
+  }
+
+  /* ------------------------------------------------------------------------------- */
+
+  .black {
+    background-color: black;
+ }
+
+ h4{
+     color: black;
+     text-transform: uppercase;
+ }
+
+ .item-count{
+    width: 50%;
+    height: 20px;
+ }
+
+
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+.coordinates {
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    position: absolute;
+    bottom: 40px;
+    left: 10px;
+    padding:5px 10px;
+    margin: 0;
+    font-size: 11px;
+    line-height: 18px;
+    border-radius: 3px;
+    display: none;
+}
+
+
